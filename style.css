@@ -1,0 +1,122 @@
+.top{
+  background-color: #E9EFC0;
+  padding: 20px;
+  padding-top: 100px;
+  position: relative;
+
+}
+h1{
+  border: 0;
+  margin: 0;
+  font-family: 'Handlee', cursive;
+  font-size:5.625rem;
+  color:#4E944F;
+  margin-top: 50px;
+  line-height: 200%;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.0rem;
+  color: #4E944F;
+  font-weight: normal;
+  letter-spacing: 3px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #83BD75;
+
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.profile{
+  margin: 50px 0;
+}
+.bottomimg{
+  position: absolute;
+  left:400px;
+  bottom: 200px;
+}
+.topimg{
+  position: absolute;
+  right:400px;
+  top:75px;
+}
+.mountain{
+  height:200px;
+  position: relative;
+  top:5px;
+}
+a{
+  color: #4E944F;
+  margin :15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 200%;
+}
+.code{
+  float: left;
+  margin-right: 30px;
+}
+.binge{
+  float: right;
+  margin-left: 30px;
+}
+/* button is out of syllabus rn */
+.btn {
+  background: #7bd934;
+  background-image: -webkit-linear-gradient(top, #7bd934, #2bb834);
+  background-image: -moz-linear-gradient(top, #7bd934, #2bb834);
+  background-image: -ms-linear-gradient(top, #7bd934, #2bb834);
+  background-image: -o-linear-gradient(top, #7bd934, #2bb834);
+  background-image: linear-gradient(to bottom, #7bd934, #2bb834);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.btn:hover {
+  background: #43fc3c;
+  background-image: -webkit-linear-gradient(top, #43fc3c, #34d937);
+  background-image: -moz-linear-gradient(top, #43fc3c, #34d937);
+  background-image: -ms-linear-gradient(top, #43fc3c, #34d937);
+  background-image: -o-linear-gradient(top, #43fc3c, #34d937);
+  background-image: linear-gradient(to bottom, #43fc3c, #34d937);
+  text-decoration: none;
+}
+.contact-me{
+  line-height: 2;
+}
+.skills{
+  margin:50px ;
+}
+.bottom{
+  background-color: #83BD75;
+  margin:50px 0 0 0;
+  padding:50px 0;
+  color: white;
+  line-height: 2;
+
+}
+hr{
+  width: 5%;
+  color: silver;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-spacing: 2px;
+}
